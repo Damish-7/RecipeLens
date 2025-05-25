@@ -1,2 +1,2 @@
 # RecipeLens 
-(major project)
+(major project).  
