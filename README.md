@@ -1,4 +1,4 @@
-# RecipeLens
+# RecipeLens   
 
 A Django-based recipe application with machine learning capabilities for recipe analysis and recommendations.
 
